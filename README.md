@@ -60,4 +60,3 @@ client = TextAnalyticsClient(
 **Yashas Vishwakarma**
 Network Engineer → AI Engineer
 3.5 years enterprise networking experience (Cisco, Computacenter/Daimler)
-[LinkedIn](https://linkedin.com/in/your-profile)
